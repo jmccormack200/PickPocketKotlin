@@ -48,6 +48,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_a7a19e3389fa7751014de43ade1cbbea36e7eca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -72,6 +81,15 @@
         revision="25.0.1"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
         <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_c8666d64295f3e9e3eb33d3282110a35d2ea8222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_ea8da77afa991866029f218bbff81b5202976d19.jar" />
     </item>
     <item
         is-multidex="false"
