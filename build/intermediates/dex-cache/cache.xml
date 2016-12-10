@@ -3,174 +3,210 @@
 
     <item
         is-multidex="false"
-        jar="/Users/John.McCormick/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.5-2/9a397ba5477bf49ae0418cc3e392b3c0e5a112d1/kotlin-stdlib-1.0.5-2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="9a397ba5477bf49ae0418cc3e392b3c0e5a112d1">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.0.5-2_ec2b1bd47f1bd5056d8cc8b55525b56c517caf9f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_f9cd5ec2a771b11c311a2f238dc493a2f49d333b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_aa1033587cf77a8a2d2c4f37daf2838b83ba5bb9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_63f051e3ea72f87c24fe8f9403b4469a82dbd1e2.jar" />
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_631e01e985bf72675cf066cc8bc4a3564d20abfb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_425f5534cea30f2d7bb2a5ad81cd34568aaf505e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_b97ebe66d9e9b819de948d805a4f74aa4c7b24f5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_5b48845dce65c5d69d9850f9d65b218fbde6a59f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_bcba3f7ca6dcaa2850eb1d48a91167d1f7f5e708.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_aeb6c282419f3b16633d4fded36e7b51fd67af82.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_067624c5b2a59f0b44b7aed565a7ea85a1415448.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_2f66bc07ef87cda48b11f57db3d76060abc7fb49.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_ef595b7e2ee3e02105ee860ab7204891fbd9e1ca.jar" />
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_89468e752505ff076e4e819265b25c18b8f372ea.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_d937d934d17428c4a04def5ca948144c2a7efd26.jar" />
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_b6ccf0bf5c2ab24aa4e2df9d06344e8079ef5782.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/John.McCormick/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="0a9cb567dc008f570c28531720168f19148da965">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_448151fd6c7edcde71b50f4ba38848da31a695a2.jar" />
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_8be5806e3070e7520965c6a0bcd672d91b5af6a7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f63196698a1842e0598169f7ab4a200829e7d7b4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7f3219929e8031ebf9a51a1951c9e20030b97f0f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_0090320e040072da6dbdb2b66d2f00c2dba95308.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta4_e2212139ad6268dd1e424e43f7ece9691073c294.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/John.McCormick/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.5-2/16ba409719189072db06433a3c381015c0877998/kotlin-runtime-1.0.5-2.jar"
+        jar="/Users/jmack/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.5-2/16ba409719189072db06433a3c381015c0877998/kotlin-runtime-1.0.5-2.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="16ba409719189072db06433a3c381015c0877998">
-        <dex dex="/Users/John.McCormick/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/kotlin-runtime-1.0.5-2_d4dad08c6671482b15d920114b15d1b860aa8789.jar" />
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/kotlin-runtime-1.0.5-2_30cc3afec20845631d0dd2d20ac08b5bb05a8d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_0bcdd4537ebb5b6c8c5d729c7975e53ac0f5a43b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.jakewharton/kotterknife/0.1.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a2ca8753b1892bf3efd3243af399cbf5fc64329">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.jakewharton-kotterknife-0.1.0-SNAPSHOT_3fa8877a7609eeff3373590e564401fcbf339da7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_c8666d64295f3e9e3eb33d3282110a35d2ea8222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a50a258a94a0463d499976d26405fefa477c7fb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_e76d2102ae0cb73722e32c8da185762e04fc2524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_f9e8a11c83fefb634449db680d13a409084dca03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.5-2/9a397ba5477bf49ae0418cc3e392b3c0e5a112d1/kotlin-stdlib-1.0.5-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9a397ba5477bf49ae0418cc3e392b3c0e5a112d1">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.0.5-2_fba8bf6be874f32132155bf89182815ea3b43dd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_65fdbe046984c2162c7eeaf072e3a078787ebfff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_65dd434476fe70d58ee09c7c51fa06daf7f26b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_e2ba8b4cfb3c25f21594d7ecc1956e9e68bc3bfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3424c2a4098ce3f77b9ab758668c8c223cb9909b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta4_60268ec1519f34ba926a036a0627ed099cedc662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_d84399f93c118e715c54aee6d5f1c673b0ff80ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_a3db1ecaa9bd9b7eaa4512877a1ee0e1bf1ff359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0bdbd287ab276c0d2593125de064f9f846442086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_32ebb6da2b84faf3112c81973e64be2755e67993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_611383ef21ba2fef75a37aff3a2d6e54787a805d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jmack/PickPocketKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/jmack/PickPocketKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_aa7b4b0789af5e6d48b0a2e789f89b9ff71ee6d4.jar" />
     </item>
 
 </items>
