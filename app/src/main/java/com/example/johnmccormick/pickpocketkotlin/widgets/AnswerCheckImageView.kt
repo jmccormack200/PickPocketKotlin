@@ -19,7 +19,7 @@ class AnswerCheckImageView constructor(context: Context, attrs: AttributeSet) : 
         setimageWrong()
     }
 
-    private fun setimageWrong() {
+    fun setimageWrong() {
         background = context.getDrawable(if (colorWhite) {
             R.drawable.ic_check_box_outline_blank_white_24px
         } else {
@@ -27,7 +27,7 @@ class AnswerCheckImageView constructor(context: Context, attrs: AttributeSet) : 
         })
     }
 
-    private fun setImageCorrectValueWrongLocation(){
+    fun setImageCorrectValueWrongLocation() {
         background = context.getDrawable(if (colorWhite) {
             R.drawable.ic_indeterminate_check_box_white_24px
         } else {
@@ -35,7 +35,7 @@ class AnswerCheckImageView constructor(context: Context, attrs: AttributeSet) : 
         })
     }
 
-    private fun setImageCorrect(){
+    fun setImageCorrect() {
         background = context.getDrawable(if (colorWhite) {
             R.drawable.ic_check_box_white_24px
         } else {
